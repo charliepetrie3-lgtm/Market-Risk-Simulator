@@ -25,9 +25,13 @@ Matplotlib: For visualizing the distribution of simulation outcomes.
 
 ## Findings Summary
 Metric:
+print()
 Apple (AAPL), S&P 500 (^GSPC)
+print()
 Win Probability = 77.05% , 72.64%
+print()
 Avg. Win (Profit) = $22,873 , $11,951
+print()
 95% CVaR (Avg. Loss) =  $16,675 , $12,207
 
 ## Insight
